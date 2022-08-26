@@ -1,0 +1,1 @@
+const artyom = new Artyom();
